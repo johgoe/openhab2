@@ -21,6 +21,7 @@
     <module>org.openhab.io.hueemulation</module>
     <module>org.openhab.io.transport.feed</module>
     <module>org.openhab.io.imperihome</module>
+    <module>org.openhab.io.transport.cul</module>
   </modules>
 
   <profiles>
